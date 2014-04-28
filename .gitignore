@@ -1,5 +1,10 @@
 *.class
 *.log
+.DS_Store
+
+*.project
+*.classpath
+*.settings/
 
 # sbt specific
 .cache/
