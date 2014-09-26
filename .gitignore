@@ -5,6 +5,9 @@
 *.project
 *.classpath
 *.settings/
+*.idea_modules/
+*.idea/
+*.iml
 
 # sbt specific
 .cache/
